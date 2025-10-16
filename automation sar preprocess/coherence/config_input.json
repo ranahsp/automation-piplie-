@@ -1,0 +1,12 @@
+{
+  "subswath": "IW2",
+  "polarization": "VV",
+  "start_date": "2021-07-18",
+  "end_date": "2021-08-18",
+  "subset_wkt": "POLYGON((8.771000155000024 40.10317950000007, 8.771000155000024 40.33213643700003, 8.462286404000054 40.33213643700003, 8.462286404000054 40.10317950000007, 8.771000155000024 40.10317950000007))",
+  "download_dir": "C:/Users/39351/Downloads/S1_Batch2",
+  "netrc_path": "C:/Users/39351/.netrc",
+  "output_folder_path": "C:\\polimi\\thesis\\motiferru analysis\\S1-coherence",
+  "export_intermediate": false,
+  "print_operators": false
+}

@@ -1,0 +1,11 @@
+{
+    "subswath": "IW1",
+    "start_date": "2022-07-10",
+    "end_date": "2022-07-30",
+    "subset_wkt": "POLYGON((-4.2 41.5, -4.2 41.7, -4 41.7, -4 41.5, -4.2 41.5))",
+    "download_dir": "C:/Users/39351/Downloads/S1_Batch",
+    "netrc_path": "C:/Users/39351/.netrc",
+    "output_folder_path": "C:/Users/39351/Desktop/results",
+    "export_intermediate": false,
+    "print_operators": false
+}
